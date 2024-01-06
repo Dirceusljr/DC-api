@@ -1,0 +1,16 @@
+{
+  "produtos": [
+    {
+      "nome": "Cerveja IPA",
+      "preco": "12.99",
+      "descricao": "Uma cerveja encorpada e amarga, com notas cítricas e frutadas.",
+      "id": 1
+    },
+    {
+      "nome": "Vinho Tinto Merlot",
+      "preco": "20",
+      "descricao": "Um vinho encorpado com notas de frutas escuras e taninos suaves.",
+      "id": 2
+    }
+  ]
+}
